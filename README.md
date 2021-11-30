@@ -1,0 +1,1 @@
+An example how to run Lambda locally
